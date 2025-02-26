@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add48.png</file>
+        <file>icons/exit48.png</file>
+        <file>icons/help48.png</file>
+        <file>icons/info48.png</file>
+        <file>icons/pause48.png</file>
+        <file>icons/play48.png</file>
+        <file>icons/settings48.png</file>
+        <file>icons/favicon.png</file>
+        <file>icons/left48.png</file>
+        <file>icons/right48.png</file>
+    </qresource>
+</RCC>
