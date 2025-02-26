@@ -1,8 +1,4 @@
-# 3.Übung
-
-
-
-## Abgabetermin: 11.01.2024
+# Übung
 
 In dieser Übung sollen Sie eine Animation in C++ mit Qt implementieren. Es
 handelt sich um eine Visualisierung der Türme von Hanoi.
@@ -26,8 +22,6 @@ Patterns. Kommentieren Sie Ihre Implementation ausführlich. Jede Funktion sollt
 einer Beschreibung mit Übergabeparametern, Rückgabeparamtern und einer kurzen
 Beschreibung der Funktionalität versehen werden. Informieren Sie sich hierfür über
 die Standards in C++.
-
-## Aufgabe 1 
 
 Die Aufgabe sollte rekursiv gelöst werden, wobei die Anzahl n der Scheiben variabel
 sein soll. Im Fall einer einzigen Scheibe (Basisfall), ist die Lösung sehr einfach: Es
@@ -91,26 +85,3 @@ eines Zuges der Animation zu verändern.
 Stellen Sie sicher, dass Ihr Programm ordnungsgemäß funktioniert. Wählen Sie die
 einzelnen Komponenten, ihr Layout und die Menüführung unter softwareergonomi-
 schen Gesichtspunkten
-
-## Aufgabe 2
-
-Erstellen Sie eine Präsentation (Vortragsdauer ca. 10-12 Min) wie Ihre Software
-entwickelt wurde und welche Patterns Sie wo, wie und warum verwendet haben.
-Beschreiben Sie weiterhin die Architektur und Funktionsweise Ihres Programms und
-fügen Sie zur Unterstützung Diagramme (bspw. Klassendiagramme,
-Datenflussdiagramme, ...), sowie passende Sichten des 4+1 Sichtenmodells nach
-Kruchten bei. Stellen Sie das Ergebnis der Entwicklung (bspw. live oder als Video)
-vor. Machen Sie Ihre Entscheidung für die verwendeten Patterns, Diagramme und
-Sichten transparent. Teilen Sie die Arbeit an der Präsentation gleichmäßig über alle
-Gruppenmitglieder auf und machen Sie kenntlich, wem welches Kapitel/Thema
-zuzuschreiben ist. Die Präsentation richtet sich an interessierte Software-
-Engineering-Studierende Ihres Jahrgangs (Zielgruppe). Konzentrieren Sie sich in der
-Präsentation auf die wesentlichen Aspekte der Entwicklung Ihres Projektes.
-
-Erzeugen Sie eine zip-Datei, die Ihre vollständigen zu diesem Projekt gehörigen
-Dateien und Ihre Präsentation enthält, und laden Sie sie auf OLAT zu der
-zugehörigen Übung unseres Kurses hoch.
-
-Die Präsentationen werden am 12.01.2024 in der Übungsstunde von Ihnen
-präsentiert. (Bei Bedarf auch in der darauffolgenden Übungsstunde). Bringen Sie zur
-Präsentation eine ausgedruckte Version der Folien für den Dozenten mit.
